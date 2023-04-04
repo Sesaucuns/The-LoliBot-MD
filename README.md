@@ -64,7 +64,7 @@ termux-setup-storage
 pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget
 ```
 ```bash
-wget -O - https://raw.githubusercontent.com/elrebelde21/The-LoliBot-MD/master/install.sh | bash
+wget -O - https://github.com/Sesaucuns/The-LoliBot-MD?organization=Sesaucuns&organization=Sesaucuns | bash
 ```
 ------------------
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="40px">  
